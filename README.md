@@ -1,4 +1,4 @@
- 
+  
 # Predicting risky loans
 
 Identifying bank loans that are likely to default.
@@ -11,7 +11,7 @@ Identifying bank loans that are likely to default.
         
    <b>
      
-     1. Introduction
+         1. Introduction
    </b>
      
       The current project demonstrates the use of decision tree algorithm C5.0 in differentiating risky bank loans from non risky ones.
